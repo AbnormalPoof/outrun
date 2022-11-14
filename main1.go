@@ -13,7 +13,7 @@ import (
 
 	"github.com/fluofoxxo/outrun/bgtasks"
 	"github.com/fluofoxxo/outrun/config"
-	"github.com/fluofoxxo/outrun/config/campaignconf"
+	"github.com/AbnormalPoof/outrun/config/campaignconf"
 	"github.com/fluofoxxo/outrun/config/eventconf"
 	"github.com/fluofoxxo/outrun/config/gameconf"
 	"github.com/fluofoxxo/outrun/config/infoconf"
